@@ -44,12 +44,10 @@
 ---
 
 
-## 🗺️ My GitHub City
-
-![snake gif](https://github.com/Muhammadzonair/Muhammadzonair/blob/output/github-snake-dark.svg)
+[![View My GitHub City](https://img.shields.io/badge/🏙️_View_My_GitHub_City-Click_to_see_my_skyline-1d4ed8?style=for-the-badge)](https://github-city-abdullahs-projects-c1b83a09.vercel.app/?user=abdullahsaleem786)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Muhammadzonair&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
